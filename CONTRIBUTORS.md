@@ -612,3 +612,8 @@
 - Place: Miami, Florida, USA
 - Bio: Hobbiest, Reader
 - GitHub: [Ceefbox](https://github.com/ceefbob)
+
+#### Name: [Jay Dulera](https://github.com/fakejaydulera)
+- Place: Mumbai, India
+- Bio: Student
+- Github: [fakejaydulera](https://github.com/fakejaydulera)
